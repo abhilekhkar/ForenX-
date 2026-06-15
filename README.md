@@ -94,7 +94,7 @@ pip
 
 Installation
 
-bashgit clone https://github.com/yourusername/ForenX.git
+bashgit clone https://github.com/abhilekhkar/ForenX.git
 cd ForenX
 pip install -r requirements.txt
 
